@@ -1,7 +1,7 @@
 
 # Employee Attrition Prediction
 
-![Project Thumbnail](attrition_thumbnail.pdf)
+![Project Thumbnail](attrition_thumbnail.png)
 
 This project uses Artificial Neural Networks (ANNs) to predict employee attrition based on various factors, including job satisfaction, workload, and performance. The goal is to help HR teams identify employees at risk of leaving and take proactive steps to improve retention.
 
