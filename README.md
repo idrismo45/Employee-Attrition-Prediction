@@ -17,7 +17,7 @@ This project uses Artificial Neural Networks (ANNs) to predict employee attritio
 ## How to View the Project:
 To explore the code and methodology used in this project, please open the **Employee_Attrition_Prediction.ipynb** file in Jupyter Notebook.
 
-[Link to the Jupyter Notebook on GitHub](https://github.com/idrismo45/Employee-Attrition-Prediction/blob/main/HR_Employee_Retention.ipynb)
+[Link to the Jupyter Notebook on GitHub](https://github.com/idrismo45/Employee-Attrition-Prediction/blob/main/Employee_Attrition_Prediction.ipynb)
 
 ## Results:
 The project accurately predicts the likelihood of employee attrition and provides insights into key factors contributing to attrition risk.
