@@ -35,7 +35,7 @@ To dive deeper into the methodology and code, explore the **Employee_Attrition_P
 
 [Link to the Jupyter Notebook on GitHub](https://github.com/idrismo45/Employee-Attrition-Prediction/blob/main/Employee_Attrition_Prediction.ipynb)
 
-### Ok, So how did we get along?
+### Ok, so how did we get along?
 
 This project aimed to address a key challenge for businesses: **employee attrition**. As noted, replacing an employee can cost small and mid-sized companies thousands of dollars and take weeks, impacting productivity and morale. The objective was to leverage predictive analytics to help HR teams identify at-risk employees and implement retention strategies to minimize these costs.
 
