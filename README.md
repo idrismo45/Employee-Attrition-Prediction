@@ -28,6 +28,10 @@ This project focuses on predicting employee attrition using data on various fact
 
 ## Tools and Libraries:
 - **TensorFlow**: For building and training the neural network.
+- **Keras**: Integrated with TensorFlow to construct and optimize the ANN.
+- **Pandas**: For data manipulation and preprocessing.
+- **NumPy**: For numerical operations and feature scaling.
+- **Scikit-learn**: For data splitting, scaling, and model evaluation metrics.
 - **Seaborn** & **Matplotlib**: For data visualization and model performance tracking.
 
 ## How to View the Project:
