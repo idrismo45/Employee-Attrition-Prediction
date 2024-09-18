@@ -50,6 +50,8 @@ This project addresses a critical business challenge: employee attrition. The fi
 
 We compared the performance of three models—Logistic Regression, Random Forest Classifier, and Artificial Neural Networks (ANNs)—in predicting employee attrition.
 
+![Plots](hr_outpute.png)
+
 ### **Model Comparison:**
 
 - **Logistic Regression**: This model showed the highest accuracy (0.89) and effectively handled the class imbalance between employees who stayed (`Class 0`) and those who left (`Class 1`). It excelled at predicting employees likely to stay, but struggled with recall for those who left. While it had high precision (0.83) for predicting leavers, it missed many at-risk employees (recall of 0.41), indicating the need for further tuning in identifying potential leavers.
