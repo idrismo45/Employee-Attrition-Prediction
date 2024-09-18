@@ -50,7 +50,7 @@ This project addresses a critical business challenge: employee attrition. The fi
 
 We compared the performance of three models—Logistic Regression, Random Forest Classifier, and Artificial Neural Networks (ANNs)—in predicting employee attrition.
 
-![Plots](hr_outpute.png)
+![Plots](hr_output.png)
 
 ### **Model Comparison:**
 
