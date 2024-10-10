@@ -9,7 +9,7 @@ Given these significant costs, understanding which employees are likely to leave
 
 ![Project Thumbnail](attrition_thumbnail.png)
 
-In this project, we use **Artificial Neural Networks (ANNs)**, along with other models like **Logistic Regression** and **Random Forest Classifier**, to predict employee attrition. The goal is to assist HR teams in identifying at-risk employees before they leave. With this knowledge, companies can implement retention strategies, ultimately saving time, money, and talent.
+This project begins by examining key factors related to employee attrition before applying models like **Artificial Neural Networks (ANNs)**, **Logistic Regression**, and **Random Forest** to predict at-risk employees. The insights help HR teams take proactive steps to improve retention strategies.
 
 ---
 
@@ -42,7 +42,16 @@ To dive deeper into the methodology, code, and model results, explore the **Empl
 
 [Link to the Jupyter Notebook on GitHub](https://github.com/idrismo45/Employee-Attrition-Prediction/blob/main/Employee_Attrition_Prediction.ipynb)
 
+
+## Exploratory Data Analysis
+**What is the main factor for Employee Attrition? Is it Age? Income? The Work Department? Let's see!**
+
+
+
+
 ---
+
+
 
 ### **Summary:**
 
