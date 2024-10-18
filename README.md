@@ -44,9 +44,8 @@ To dive deeper into the methodology, code, and model results, explore the **Empl
 
 
 ## Exploratory Data Analysis
-**What is the main factor for Employee Attrition? Is it Age? Income? The Work Department? Let's see!**
-
-
+**How is attrition dependent on Age? **
+Attrition peaks in the 28-32 age group and decreases with age as employees seek job stability. Younger employees, particularly those aged 18-20, are more likely to leave as they explore their options. A break-even point occurs around age 21.
 
 
 ---
